@@ -6,7 +6,7 @@ This project is a comprehensive HR analytics dashboard built in **Power BI** to 
 
 ---
 
-## 📊 Features
+** Features**
 
 | Feature                            | Description                                                  |
 |-----------------------------------|--------------------------------------------------------------|
@@ -18,7 +18,7 @@ This project is a comprehensive HR analytics dashboard built in **Power BI** to 
 
 ---
 
-## 🧰 Tools & Technologies
+**Tools & Technologies**
 
 - Power BI Desktop
 - Power Query (M language)
@@ -27,7 +27,7 @@ This project is a comprehensive HR analytics dashboard built in **Power BI** to 
 
 ---
 
-## 🗃️ Dataset
+**Dataset**
 
 The dataset used is a public HR dataset that includes fields such as:
 
@@ -42,19 +42,15 @@ The dataset used is a public HR dataset that includes fields such as:
 - Performance Rating  
 - Satisfaction Level  
 
-> ⚠️ **Disclaimer**: This dataset is fictional and used for educational purposes only.
+ **Disclaimer**: This dataset is fictional and used for educational purposes only.
 
 ---
 
-## 📷 Dashboard Preview
+**Dashboard Preview**
 
 ![image](https://github.com/user-attachments/assets/cdcabe1c-abea-490a-9119-a318785a1da8)
 ![image](https://github.com/user-attachments/assets/76385406-ea98-4cbf-9801-c619ac8dc792)
 
 ---
 
-## 🚀 Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/hr-analytics-dashboard.git
