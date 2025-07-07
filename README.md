@@ -6,7 +6,7 @@ This project is a comprehensive HR analytics dashboard built in **Power BI** to 
 
 ---
 
-## ** Features**
+## **Features**
 
 | Feature                            | Description                                                  |
 |-----------------------------------|--------------------------------------------------------------|
