@@ -2,11 +2,11 @@
 
 This project is a comprehensive HR analytics dashboard built in **Power BI** to provide deep insights into workforce metrics such as attrition, compensation, performance, satisfaction, and diversity. It enables HR teams and decision-makers to track key indicators and drive data-informed strategies.
 
-> 📌 **Based on and adapted from the original project by [AminAlakbarov](https://github.com/AminAlakbarov/HR-Analytics-Project)**  
+**Based on and adapted from the original project by [AminAlakbarov](https://github.com/AminAlakbarov/HR-Analytics-Project)**  
 
 ---
 
-** Features**
+## ** Features**
 
 | Feature                            | Description                                                  |
 |-----------------------------------|--------------------------------------------------------------|
@@ -18,7 +18,7 @@ This project is a comprehensive HR analytics dashboard built in **Power BI** to 
 
 ---
 
-**Tools & Technologies**
+## **Tools & Technologies**
 
 - Power BI Desktop
 - Power Query (M language)
@@ -27,7 +27,7 @@ This project is a comprehensive HR analytics dashboard built in **Power BI** to 
 
 ---
 
-**Dataset**
+## **Dataset**
 
 The dataset used is a public HR dataset that includes fields such as:
 
@@ -46,7 +46,7 @@ The dataset used is a public HR dataset that includes fields such as:
 
 ---
 
-**Dashboard Preview**
+## **Dashboard Preview**
 
 ![image](https://github.com/user-attachments/assets/cdcabe1c-abea-490a-9119-a318785a1da8)
 ![image](https://github.com/user-attachments/assets/76385406-ea98-4cbf-9801-c619ac8dc792)
