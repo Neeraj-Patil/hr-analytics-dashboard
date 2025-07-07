@@ -48,7 +48,8 @@ The dataset used is a public HR dataset that includes fields such as:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard-preview.png)
+![image](https://github.com/user-attachments/assets/cdcabe1c-abea-490a-9119-a318785a1da8)
+![image](https://github.com/user-attachments/assets/76385406-ea98-4cbf-9801-c619ac8dc792)
 
 ---
 
